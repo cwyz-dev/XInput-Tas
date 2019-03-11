@@ -1,0 +1,103 @@
+﻿  main.c
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(65): error C2061: syntax error: identifier 'BOOL'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(66): error C2061: syntax error: identifier 'Rudder'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(66): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(67): error C2061: syntax error: identifier 'Aileron'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(67): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(68): error C2061: syntax error: identifier 'AxisX'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(68): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(69): error C2061: syntax error: identifier 'AxisY'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(69): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(70): error C2061: syntax error: identifier 'AxisZ'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(70): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(71): error C2061: syntax error: identifier 'AxisXRot'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(71): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(72): error C2061: syntax error: identifier 'AxisYRot'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(72): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(73): error C2061: syntax error: identifier 'AxisZRot'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(73): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(74): error C2061: syntax error: identifier 'Slider'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(74): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(75): error C2061: syntax error: identifier 'Dial'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(75): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(76): error C2061: syntax error: identifier 'Wheel'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(76): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(77): error C2061: syntax error: identifier 'AxisVX'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(77): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(78): error C2061: syntax error: identifier 'AxisVY'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(78): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(79): error C2061: syntax error: identifier 'AxisVZ'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(79): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(80): error C2061: syntax error: identifier 'AxisVBRX'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(80): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(81): error C2061: syntax error: identifier 'AxisVBRY'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(81): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(82): error C2061: syntax error: identifier 'AxisVBRZ'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(82): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(83): error C2061: syntax error: identifier 'nButtons'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(83): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(84): error C2061: syntax error: identifier 'nDescHats'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(84): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(85): error C2061: syntax error: identifier 'nContHats'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(85): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(86): error C2059: syntax error: '}'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(89): error C2061: syntax error: identifier 'HANDLE'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(90): error C2061: syntax error: identifier 'stat'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(90): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(91): error C2061: syntax error: identifier 'position'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(91): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(92): error C2061: syntax error: identifier 'hDeviceNotifyHandle'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(92): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(93): error C2061: syntax error: identifier 'DeviceControls'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(93): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(94): error C2061: syntax error: identifier 'pPreParsedData'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(94): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(95): error C2059: syntax error: '}'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(98): error C2061: syntax error: identifier 'BYTE'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(99): error C2061: syntax error: identifier 'nImplemented'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(99): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(100): error C2061: syntax error: identifier 'isImplemented'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(100): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(101): error C2061: syntax error: identifier 'MaxDevices'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(101): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(102): error C2061: syntax error: identifier 'DriverFFB'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(102): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(103): error C2061: syntax error: identifier 'DeviceFFB'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(103): error C2059: syntax error: ';'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(104): error C2059: syntax error: '}'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(108): error C2143: syntax error: missing ')' before '*'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(108): error C2143: syntax error: missing '{' before '*'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(108): error C2059: syntax error: ')'
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(133): error C2065: 'HID_ID_EFFREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(133): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(134): error C2065: 'HID_ID_ENVREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(134): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(135): error C2065: 'HID_ID_CONDREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(135): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(136): error C2065: 'HID_ID_PRIDREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(136): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(137): error C2065: 'HID_ID_CONSTREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(137): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(138): error C2065: 'HID_ID_RAMPREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(138): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(139): error C2065: 'HID_ID_CSTMREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(139): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(140): error C2065: 'HID_ID_SMPLREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(140): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(141): error C2065: 'HID_ID_EFOPREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(141): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(142): error C2065: 'HID_ID_BLKFRREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(142): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(143): error C2065: 'HID_ID_CTRLREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(143): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(144): error C2065: 'HID_ID_GAINREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(144): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(145): error C2065: 'HID_ID_SETCREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(145): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(148): error C2065: 'HID_ID_NEWEFREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(148): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(149): error C2065: 'HID_ID_BLKLDREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(149): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(150): error C2065: 'HID_ID_POOLREP': undeclared identifier
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(150): error C2057: expected constant expression
+c:\users\chris wood\documents\github\cwyz-dev\xinput-tas\vjoy-sdk\inc\vjoyinterface.h(150): fatal error C1003: error count exceeds 100; stopping compilation
